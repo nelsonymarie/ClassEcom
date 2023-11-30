@@ -1,0 +1,74 @@
+/* Contact Page Styles */
+
+/* Header Styles */
+header {
+    background-color: #333; /* Dark background color */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px; /* Larger font size for header */
+}
+
+/* Contact Form Styles */
+form {
+    background-color: #222; /* Dark background for the form */
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Dramatic shadow effect */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 18px; /* Larger font size for labels */
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    background-color: #444; /* Darker background for input fields */
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+}
+
+textarea {
+    height: 150px; /* Adjust the height of the textarea */
+}
+
+button[type="submit"] {
+    background-color: #ff4d4d; /* Dramatic red color for the submit button */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+button[type="submit"]:hover {
+    background-color: #ff0000; /* Darker red on hover for a dramatic effect */
+}
+
+/* Footer Styles */
+/* Footer Styles */
+footer {
+    position: fixed; /* Set the position to fixed */
+    bottom: 0; /* Stick it to the bottom of the viewport */
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 100%; /* Make it full-width */
+}
+
+
+/* Add additional styles as needed */
+
